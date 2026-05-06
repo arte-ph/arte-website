@@ -2983,4 +2983,6 @@
       .steps-grid { grid-template-columns: 1fr; }
       .fee-cards { grid-template-columns: 1fr; }
       .fee-what-includes { padding: 24px 20px; }
+      .book-cta-section { padding: 64px 24px; }
+      .book-cta-inner { padding: 48px 28px; }
     }
